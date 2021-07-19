@@ -4,3 +4,7 @@ croketa
 lenguitas
 
 naranja
+
+manzana
+pera
+melon
