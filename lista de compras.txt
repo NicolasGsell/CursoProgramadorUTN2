@@ -1,10 +1,7 @@
 budin
 pan
 croketa
-lenguitas
-
-naranja
-
-manzana
-pera
-melon
+carne
+pollo
+verdeo
+verduras
